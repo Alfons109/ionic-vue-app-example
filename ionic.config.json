@@ -1,0 +1,7 @@
+{
+  "name": "joefresh",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
