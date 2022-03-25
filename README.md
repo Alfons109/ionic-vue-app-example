@@ -1,6 +1,6 @@
 # ionic-vue-app-example
 First Ionic Vue app example
-This test app was created to try Ionic and Capacitor for mobile development.
+This test app was created to try Ionic and Capacitor for mobile development.  The app is made up of two screens.  The first screen is a list of products and the second screen is the a product detail page. The app managaes it's own state and has it's own router for navigation.
 
 To get started make sure you have Visual Studio Code editor as well as npm installed. 
 
