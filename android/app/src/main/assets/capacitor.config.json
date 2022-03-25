@@ -1,0 +1,6 @@
+{
+	"appId": "com.joefresh.ionic",
+	"appName": "Joe Fresh",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
